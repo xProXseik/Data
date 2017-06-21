@@ -2,6 +2,7 @@
 [all]finndev
 [all]Tony
 [all]Yuuki
+[all]Haxory
 [all]Support
 [all]FurkanS
 [all]test
@@ -26,3 +27,4 @@
 [all]Misfken
 [Ryze]wen000114
 [Ryze]Richie McCoy
+[Ryze]wowmui
