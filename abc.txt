@@ -31,3 +31,4 @@
 [Ryze]wowmui
 [Ryze]Pepes
 [Ryze]huynho13
+[Army]palino
